@@ -1,0 +1,22 @@
+Syntax for Xpath:
+//tagname[@attributename='attributevalue']
+eg.. : //input[@value='Red']
+
+
+SYntax for CssSelector
+tagname[attributename='attributevalue']
+eg.... : input[value='yellow']
+
+Assignment
+***prefix changes but suffix remains same of the Attributes values : syntax for it and vice a versa
+eg : contains, following sibling,precedingsiblings
+
+*** significance of '#' n '*'
+
+
+**** difference between assert and verify
+-> Verify: if your verify point fails then it will execute the next line
+->assert :in this case if it fails then it will terminate the program
+
+***Which is better and assert and verify
+
